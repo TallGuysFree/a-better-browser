@@ -1,5 +1,5 @@
 export default {
-  'en': ['You are using an outdated browser.', 'More information &#187;'],
+  'en': ['You are using an outdated and insecure browser. It is critical that you switch to a free, up-to-date, and supported web browser immediately to ensure safety from exploits and attacks.', 'More information &#187;'],
 
   'af': ['Jy gebruik \'n verouderde webblaaier.', 'Meer inligting &#187;'],
   'ar': ['المتصفح الذي تستخدمه قديم وغير محدث.', 'المزيد من المعلومات &#187; '],
